@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arod256
-- 👀 I’m interested in UI/UX, game dev/design, and front end programming! I'm also interested in cognitive science as well.
-- 🌱 I’m currently learning UI/UX and Unity.
+- 👀 I’m interested in UI/UX, product design, and product management.
 
 <!---
 arod256/arod256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
